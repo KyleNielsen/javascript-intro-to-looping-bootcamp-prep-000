@@ -1,0 +1,49 @@
+[33m3d11020[m Old code that is not working [31m(Kyle Nielsen, 2 minutes ago)[m
+[33m6d8b0e2[m Done. [31m(Kyle Nielsen, 3 hours ago)[m
+[33md95206f[m Merge pull request #38 from kwebster2/master [31m(Gabe Jackson, 2 months ago)[m
+[33m836e0e5[m update wording for forLoop todo [31m(kwebster2, 2 months ago)[m
+[33m67e4f23[m Merge pull request #23 from gj/patch-2 [31m(Avidor Turkewitz, 1 year, 2 months ago)[m
+[33m44bebcd[m Merge pull request #21 from salinahum/salinahum-1474341293 [31m(Avidor Turkewitz, 1 year, 2 months ago)[m
+[33m056ad16[m Merge pull request #22 from gj/patch-1 [31m(AnnJohn, 1 year, 2 months ago)[m
+[33m8076cba[m doWhile --> doWhileLoop [31m(gabe, 1 year, 2 months ago)[m
+[33m5bf1637[m minor spelling/grammar fixes [31m(gabe, 1 year, 2 months ago)[m
+[33mb16de20[m in the **TODO** section of DO-WHILE loop, changed the function name from 'doWhile' to 'doWhileLoop' to match the lab tests [31m(Salina, 1 year, 2 months ago)[m
+[33mf96e36b[m Merge pull request #19 from learn-co-curriculum/update-func-name [31m(Avidor Turkewitz, 1 year, 2 months ago)[m
+[33m9fbb0c7[m Update method name to doWhile [31m(Avidor Turkewitz, 1 year, 2 months ago)[m
+[33m1316656[m Merge pull request #16 from DJRockstar/DJRockstar-1473434102 [31m(AnnJohn, 1 year, 2 months ago)[m
+[33mabd85db[m I know what Math.Random() method does. But if i put myself as a new bee it will be hard for me to understand the explanation. Therefore, i thought a comment would be okay for new students to understand what Math.random() is used for and why the function will return true 50% of the time. Thanks,DJ [31m(DJRockstar, 1 year, 2 months ago)[m
+[33m4c20c1b[m Merge pull request #13 from 7KINGDAVID7/7KINGDAVID7-1472835605 [31m(AnnJohn, 1 year, 2 months ago)[m
+[33m623d335[m The "`doWhileLoop`" should be "`doWhile`". Thank you! [31m(David Ganthier, 1 year, 2 months ago)[m
+[33md7dd59c[m Remove comparison to Ruby, add node engine field in package.json [31m(Charles Pletcher, 1 year, 4 months ago)[m
+[33m03289f5[m Merge pull request #11 from samnags/samnags-1468427827 [31m(Charles Pletcher, 1 year, 4 months ago)[m
+[33m85abbdf[m Updated README.md [31m(Sam Nagourney, 1 year, 4 months ago)[m
+[33m15e7d7b[m Merge pull request #10 from aturkewi/master-fix [31m(Avidor Turkewitz, 1 year, 4 months ago)[m
+[33m1ad4a05[m Clarify how to output count [31m(Avidor Turkewitz, 1 year, 4 months ago)[m
+[33md89ca39[m Fix typo [31m(Avidor Turkewitz, 1 year, 4 months ago)[m
+[33mdf55d36[m Add real-world example as intro [31m(Charles Pletcher, 1 year, 5 months ago)[m
+[33m9238df9[m Add note about installing Node.js >= 6.0.0 [31m(pletcher, 1 year, 6 months ago)[m
+[33mb10b356[m Update for new JavaScript curriculum [31m(Charles Pletcher, 1 year, 6 months ago)[m
+[33m5fbdc1d[m Merge pull request #7 from bradleyoashburn/bradleyoashburn-1458871051 [31m(AnnJohn, 1 year, 7 months ago)[m
+[33m1f23b35[m Corrected multiple typos [31m(Bradley Ashburn, 1 year, 7 months ago)[m
+[33mcf08805[m Merge pull request #5 from frankNowinski/frankNowinski-1456256396 [31m(AnnJohn, 1 year, 8 months ago)[m
+[33med83673[m Updated README.md [31m(Frank Nowinski, 1 year, 8 months ago)[m
+[33meb0b0fd[m Merge pull request #4 from learn-co-curriculum/wip [31m(AnnJohn, 1 year, 9 months ago)[m
+[33m84e65b5[m optimize learn link [processing skip] [31m(Adam Jonas, 1 year, 9 months ago)[m
+[33m9a0dd08[m update while loop example [31m(vicfriedman, 1 year, 10 months ago)[m
+[33m105f755[m typo [31m(vicfriedman, 1 year, 10 months ago)[m
+[33m0d935a6[m loops.js [31m(vicfriedman, 1 year, 10 months ago)[m
+[33m7205ca0[m codealong [31m(vicfriedman, 1 year, 10 months ago)[m
+[33md27db48[m issue #2, objectives [31m(vicfriedman, 1 year, 10 months ago)[m
+[33mf8eab44[m add learn link [processing skip] [31m(Adam Jonas, 1 year, 11 months ago)[m
+[33m8a1ec45[m add contributing file [31m(deniznida, 2 years ago)[m
+[33mb93f097[m changes the loop condition [31m(deniznida, 2 years ago)[m
+[33m2116a48[m Merge pull request #1 from kthffmn/master [31m(Katie Hoffman, 2 years, 4 months ago)[m
+[33m9876090[m add conclusion section about how common for loops are, etc. [31m(Katie Hoffman, 2 years, 4 months ago)[m
+[33m49426a1[m update resource count [31m(Katie Hoffman, 2 years, 4 months ago)[m
+[33mdc63bb6[m add codecademy links [31m(Katie Hoffman, 2 years, 4 months ago)[m
+[33m0674b77[m enhance about section [31m(Katie Hoffman, 2 years, 4 months ago)[m
+[33md4bffff[m add example code [31m(Katie Hoffman, 2 years, 4 months ago)[m
+[33mac88051[m remove github's pre-built header [31m(Katie Hoffman, 2 years, 4 months ago)[m
+[33m928bf41[m Initial commit [31m(Katie Hoffman, 2 years, 4 months ago)[m
+[33m68125b8[m update formatting [31m(Katie Hoffman, 2 years, 4 months ago)[m
+[33m479528f[m add content [31m(Katie Hoffman, 2 years, 4 months ago)[m
